@@ -1,0 +1,143 @@
+{
+  "dengue": {
+    "title": "Dengue: Community guidance",
+    "dos": [
+      "Drink plenty of fluids (ORS, water, coconut water).",
+      "Use mosquito repellent and sleep under a net.",
+      "Get tested early (NS1/platelets) if fever is high or persistent."
+    ],
+    "donts": [
+      "Avoid aspirin/ibuprofen without medical advice (bleeding risk).",
+      "Do not ignore warning signs like bleeding gums or severe abdominal pain."
+    ],
+    "seek_help": [
+      "Severe abdominal pain, persistent vomiting, bleeding, extreme weakness, or breathlessness."
+    ]
+  },
+  "malaria": {
+    "title": "Malaria: Community guidance",
+    "dos": [
+      "Get a blood test if fever comes with chills/sweating cycles.",
+      "Use mosquito control (nets, repellents, remove stagnant water).",
+      "Rest and stay hydrated."
+    ],
+    "donts": [
+      "Do not delay testing if fever continues beyond 24–48 hours."
+    ],
+    "seek_help": [
+      "Confusion, severe weakness, yellowing of eyes, breathing trouble, or high fever not reducing."
+    ]
+  },
+  "chikungunya": {
+    "title": "Chikungunya: Community guidance",
+    "dos": [
+      "Rest joints and stay hydrated.",
+      "Use mosquito prevention to avoid spread.",
+      "Consult a doctor if joint pain is severe or prolonged."
+    ],
+    "donts": [
+      "Avoid heavy exercise during acute joint pain."
+    ],
+    "seek_help": [
+      "Severe joint swelling, high persistent fever, or symptoms lasting beyond 1–2 weeks."
+    ]
+  },
+  "typhoid": {
+    "title": "Typhoid: Community guidance",
+    "dos": [
+      "Drink boiled/filtered water and eat hygienic food.",
+      "Seek medical testing if fever lasts >3 days with weakness.",
+      "Maintain hydration."
+    ],
+    "donts": [
+      "Avoid street food and untreated water during outbreaks."
+    ],
+    "seek_help": [
+      "High fever for several days, severe weakness, abdominal pain, or confusion."
+    ]
+  },
+  "covid": {
+    "title": "COVID-19 / Viral respiratory illness: Community guidance",
+    "dos": [
+      "Wear a mask in crowded spaces if cases are rising.",
+      "Isolate if you have fever/cough and avoid exposing others.",
+      "Seek testing if symptoms are significant or exposure is likely."
+    ],
+    "donts": [
+      "Don’t ignore breathlessness or low oxygen symptoms."
+    ],
+    "seek_help": [
+      "Breathing difficulty, chest pain, blue lips, or oxygen concerns."
+    ]
+  },
+  "tuberculosis": {
+    "title": "Tuberculosis (TB): Community guidance",
+    "dos": [
+      "Get checked if cough lasts >2 weeks, especially with fever/weight loss.",
+      "Visit a TB clinic for sputum/CBNAAT testing.",
+      "Cover mouth when coughing and avoid close contact until evaluated."
+    ],
+    "donts": [
+      "Don’t self-medicate for weeks without testing."
+    ],
+    "seek_help": [
+      "Coughing blood, severe breathlessness, weight loss, or fever lasting weeks."
+    ]
+  },
+  "gastroenteritis": {
+    "title": "Gastroenteritis / Stomach infection: Community guidance",
+    "dos": [
+      "Use ORS and fluids to prevent dehydration.",
+      "Eat light foods (banana, rice, toast) if tolerated.",
+      "Use clean drinking water."
+    ],
+    "donts": [
+      "Avoid oily/spicy food while symptoms persist."
+    ],
+    "seek_help": [
+      "Blood in stools, severe dehydration, high fever, or vomiting that prevents drinking fluids."
+    ]
+  },
+  "h1n1_swine_flu": {
+    "title": "H1N1 / Swine flu-like illness: Community guidance",
+    "dos": [
+      "Mask up if clusters appear in school/office.",
+      "Rest, hydrate, and monitor fever.",
+      "Consult a doctor if symptoms worsen or you are high-risk."
+    ],
+    "donts": [
+      "Don’t go to crowded places while symptomatic."
+    ],
+    "seek_help": [
+      "Breathing difficulty, persistent high fever, or worsening cough."
+    ]
+  },
+  "jaundice": {
+    "title": "Jaundice (possible hepatitis): Community guidance",
+    "dos": [
+      "Get liver function tests and consult a clinician.",
+      "Drink safe water and maintain hygiene.",
+      "Eat light and avoid alcohol."
+    ],
+    "donts": [
+      "Avoid alcohol and very oily food."
+    ],
+    "seek_help": [
+      "Severe abdominal pain, confusion, very dark urine, or persistent vomiting."
+    ]
+  },
+  "seasonal_flu": {
+    "title": "Seasonal flu / Viral fever: Community guidance",
+    "dos": [
+      "Rest, hydrate, and use basic fever care.",
+      "Mask if you are coughing to protect others.",
+      "Monitor symptoms over 48 hours."
+    ],
+    "donts": [
+      "Don’t ignore worsening symptoms."
+    ],
+    "seek_help": [
+      "Breathing trouble, chest pain, persistent high fever, or severe weakness."
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "chennai|tamil nadu|2023-10-11": {
+    "top_symptoms": [
+      [
+        "fever",
+        1.0
+      ],
+      [
+        "cough",
+        1.0
+      ]
+    ],
+    "top_diseases": [
+      [
+        "tuberculosis",
+        1.0
+      ]
+    ],
+    "sample_messages": [
+      "Chronic cough for more than 2 weeks with fever and weight loss could indicate tuberculosis. Please visit nearest TB center for sputum test."
+    ]
+  },
+  "delhi|delhi|2023-04-15": {
+    "top_symptoms": [
+      [
+        "fever",
+        1.0
+      ],
+      [
+        "cough",
+        1.0
+      ],
+      [
+        "sore_throat",
+        1.0
+      ],
+      [
+        "joint_pain",
+        1.0
+      ]
+    ],
+    "top_diseases": [
+      [
+        "h1n1_swine_flu",
+        1.0
+      ]
+    ],
+    "sample_messages": [
+      "Symptoms of H1N1 include fever, cough, sore throat, and body ache. Avoid crowded places and wear mask."
+    ]
+  },
+  "pune|maharashtra|2023-08-13": {
+    "top_symptoms": [
+      [
+        "fever",
+        7.0
+      ],
+      [
+        "joint_pain",
+        4.0
+      ],
+      [
+        "rash",
+        3.0
+      ],
+      [
+        "headache",
+        2.0
+      ],
+      [
+        "fatigue",
+        1.0
+      ]
+    ],
+    "top_diseases": [
+      [
+        "dengue",
+        7.0
+      ],
+      [
+        "tuberculosis",
+        1.0
+      ]
+    ],
+    "sample_messages": [
+      "Yes! I stay in Wakad, Pune. Fever, headache and rashes on hand. Doctor asked me to do dengue test.",
+      "User reports persistent high fever, retro-orbital pain, and joint pain for 3 days. These are classic symptoms of dengue. Please get NS1 antigen test immediately and stay hydrated.",
+      "High fever, joint pain, rashes everywhere in Pune. Many people in my society sick with dengue symptoms.",
+      "3 people in my office in Pune down with fever and headache. Dengue spreading fast?",
+      "Multiple dengue cases reported today with fever, joint pain and rash. Testing advised."
+    ]
+  },
+  "ahmedabad|gujarat|2023-06-05": {
+    "top_symptoms": [
+      [
+        "fatigue",
+        2.0
+      ]
+    ],
+    "top_diseases": [
+      [
+        "jaundice",
+        2.0
+      ]
+    ],
+    "sample_messages": [
+      "My eyes and skin turning yellow. Feeling tired. Anyone else in Ahmedabad facing jaundice?",
+      "Yellowing of eyes and fatigue are key symptoms of jaundice. Avoid oily food and get liver function test done."
+    ]
+  },
+  "hyderabad|telangana|2023-05-22": {
+    "top_symptoms": [
+      [
+        "fever",
+        2.0
+      ],
+      [
+        "rash",
+        2.0
+      ]
+    ],
+    "top_diseases": [
+      [
+        "chikungunya",
+        2.0
+      ],
+      [
+        "seasonal_flu",
+        1.0
+      ]
+    ],
+    "sample_messages": [
+      "Sudden fever with joint swelling and rashes. Chikungunya cases in Hyderabad?",
+      "Joint swelling with fever and rashes is indicative of chikungunya. Take rest and fluids."
+    ]
+  },
+  "kolkata|west bengal|2023-09-02": {
+    "top_symptoms": [
+      [
+        "diarrhea",
+        2.0
+      ],
+      [
+        "vomiting",
+        1.0
+      ]
+    ],
+    "top_diseases": [
+      [
+        "gastroenteritis",
+        2.0
+      ],
+      [
+        "typhoid",
+        1.0
+      ]
+    ],
+    "sample_messages": [
+      "Many people in my locality in Kolkata have stomach infection and loose motions. Is water contamination the reason?",
+      "Symptoms like diarrhea, vomiting and dehydration indicate possible water-borne disease like typhoid or gastroenteritis. Drink boiled water only."
+    ]
+  },
+  "lucknow|uttar pradesh|2023-07-18": {
+    "top_symptoms": [
+      [
+        "fever",
+        2.0
+      ],
+      [
+        "chills",
+        2.0
+      ]
+    ],
+    "top_diseases": [
+      [
+        "malaria",
+        2.0
+      ]
+    ],
+    "sample_messages": [
+      "High fever and chills since yesterday in Lucknow. Mosquitoes are too much these days. Malaria cases rising?",
+      "Fever with chills and sweating pattern is typical of malaria. Please get blood smear test done."
+    ]
+  },
+  "chennai|tamil nadu|2023-10-10": {
+    "top_symptoms": [
+      [
+        "fever",
+        1.0
+      ],
+      [
+        "cough",
+        1.0
+      ],
+      [
+        "fatigue",
+        1.0
+      ]
+    ],
+    "top_diseases": [
+      [
+        "tuberculosis",
+        1.0
+      ]
+    ],
+    "sample_messages": [
+      "Continuous cough for 2 weeks and mild fever. I feel weak. Anyone had TB symptoms like this in Chennai?"
+    ]
+  },
+  "delhi|delhi|2023-04-14": {
+    "top_symptoms": [
+      [
+        "cough",
+        1.0
+      ],
+      [
+        "joint_pain",
+        1.0
+      ]
+    ],
+    "top_diseases": [
+      [
+        "h1n1_swine_flu",
+        1.0
+      ],
+      [
+        "seasonal_flu",
+        1.0
+      ]
+    ],
+    "sample_messages": [
+      "Many people in office down with cold, cough, body ache. Swine flu again in Delhi?"
+    ]
+  },
+  "pune|maharashtra|2023-08-12": {
+    "top_symptoms": [
+      [
+        "fever",
+        1.0
+      ],
+      [
+        "joint_pain",
+        1.0
+      ]
+    ],
+    "top_diseases": [
+      [
+        "dengue",
+        1.0
+      ]
+    ],
+    "sample_messages": [
+      "Anyone else in Pune having high fever and terrible joint pain since 2-3 days? My neighbor also down with same thing. Is dengue spreading here?"
+    ]
+  }
+}

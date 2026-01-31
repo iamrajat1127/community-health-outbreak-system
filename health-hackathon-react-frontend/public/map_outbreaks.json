@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2023-10-11",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "lat": 13.0827,
+    "lon": 80.2707,
+    "z_score": 1.0,
+    "intensity": "green",
+    "weighted_symptoms": 2.0,
+    "weighted_diseases": 1.0
+  },
+  {
+    "date": "2023-04-15",
+    "city": "Delhi",
+    "state": "Delhi",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "z_score": 1.0,
+    "intensity": "green",
+    "weighted_symptoms": 4.0,
+    "weighted_diseases": 1.0
+  },
+  {
+    "date": "2023-08-13",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "lat": 18.5204,
+    "lon": 73.8567,
+    "z_score": 1.0,
+    "intensity": "green",
+    "weighted_symptoms": 3.2,
+    "weighted_diseases": 1.4
+  },
+  {
+    "date": "2023-06-05",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "lat": 23.0225,
+    "lon": 72.5714,
+    "z_score": 0.0,
+    "intensity": "green",
+    "weighted_symptoms": 1.4,
+    "weighted_diseases": 1.4
+  },
+  {
+    "date": "2023-05-22",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "lat": 17.385,
+    "lon": 78.4867,
+    "z_score": 0.0,
+    "intensity": "green",
+    "weighted_symptoms": 2.8,
+    "weighted_diseases": 2.4
+  },
+  {
+    "date": "2023-09-02",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "lat": 22.5726,
+    "lon": 88.3639,
+    "z_score": 0.0,
+    "intensity": "green",
+    "weighted_symptoms": 2.4,
+    "weighted_diseases": 2.4
+  },
+  {
+    "date": "2023-07-18",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "lat": 26.8467,
+    "lon": 80.9462,
+    "z_score": 0.0,
+    "intensity": "green",
+    "weighted_symptoms": 2.8,
+    "weighted_diseases": 1.4
+  },
+  {
+    "date": "2023-08-12",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "lat": 18.5204,
+    "lon": 73.8567,
+    "z_score": -0.9999999999999998,
+    "intensity": "green",
+    "weighted_symptoms": 0.8,
+    "weighted_diseases": 0.4
+  },
+  {
+    "date": "2023-10-10",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "lat": 13.0827,
+    "lon": 80.2707,
+    "z_score": -1.0,
+    "intensity": "green",
+    "weighted_symptoms": 1.2000000000000002,
+    "weighted_diseases": 0.4
+  },
+  {
+    "date": "2023-04-14",
+    "city": "Delhi",
+    "state": "Delhi",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "z_score": -1.0,
+    "intensity": "green",
+    "weighted_symptoms": 0.8,
+    "weighted_diseases": 0.8
+  }
+]
