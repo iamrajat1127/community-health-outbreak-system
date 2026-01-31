@@ -1,0 +1,16 @@
+chat_id,section,city,state,timestamp,text
+1,unverified,Pune,Maharashtra,2023-08-12,Anyone else in Pune having high fever and terrible joint pain since 2-3 days? My neighbor also down with same thing. Is dengue spreading here?
+2,unverified,Pune,Maharashtra,2023-08-13,"Yes! I stay in Wakad, Pune. Fever, headache and rashes on hand. Doctor asked me to do dengue test."
+3,verified,Pune,Maharashtra,2023-08-13,"User reports persistent high fever, retro-orbital pain, and joint pain for 3 days. These are classic symptoms of dengue. Please get NS1 antigen test immediately and stay hydrated."
+4,unverified,Kolkata,West Bengal,2023-09-02,Many people in my locality in Kolkata have stomach infection and loose motions. Is water contamination the reason?
+5,verified,Kolkata,West Bengal,2023-09-02,"Symptoms like diarrhea, vomiting and dehydration indicate possible water-borne disease like typhoid or gastroenteritis. Drink boiled water only."
+6,unverified,Chennai,Tamil Nadu,2023-10-10,Continuous cough for 2 weeks and mild fever. I feel weak. Anyone had TB symptoms like this in Chennai?
+7,verified,Chennai,Tamil Nadu,2023-10-11,Chronic cough for more than 2 weeks with fever and weight loss could indicate tuberculosis. Please visit nearest TB center for sputum test.
+8,unverified,Lucknow,Uttar Pradesh,2023-07-18,High fever and chills since yesterday in Lucknow. Mosquitoes are too much these days. Malaria cases rising?
+9,verified,Lucknow,Uttar Pradesh,2023-07-18,Fever with chills and sweating pattern is typical of malaria. Please get blood smear test done.
+10,unverified,Ahmedabad,Gujarat,2023-06-05,My eyes and skin turning yellow. Feeling tired. Anyone else in Ahmedabad facing jaundice?
+11,verified,Ahmedabad,Gujarat,2023-06-05,Yellowing of eyes and fatigue are key symptoms of jaundice. Avoid oily food and get liver function test done.
+12,unverified,Delhi,Delhi,2023-04-14,"Many people in office down with cold, cough, body ache. Swine flu again in Delhi?"
+13,verified,Delhi,Delhi,2023-04-15,"Symptoms of H1N1 include fever, cough, sore throat, and body ache. Avoid crowded places and wear mask."
+14,unverified,Hyderabad,Telangana,2023-05-22,Sudden fever with joint swelling and rashes. Chikungunya cases in Hyderabad?
+15,verified,Hyderabad,Telangana,2023-05-22,Joint swelling with fever and rashes is indicative of chikungunya. Take rest and fluids.

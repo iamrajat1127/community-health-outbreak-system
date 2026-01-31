@@ -1,0 +1,162 @@
+[
+  {
+    "chat_id": 1,
+    "section": "unverified",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "timestamp": "2023-08-12",
+    "text": "Anyone else in Pune having high fever and terrible joint pain since 2-3 days? My neighbor also down with same thing. Is dengue spreading here?"
+  },
+  {
+    "chat_id": 2,
+    "section": "unverified",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "timestamp": "2023-08-13",
+    "text": "Yes! I stay in Wakad, Pune. Fever, headache and rashes on hand. Doctor asked me to do dengue test."
+  },
+  {
+    "chat_id": 3,
+    "section": "verified",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "timestamp": "2023-08-13",
+    "text": "User reports persistent high fever, retro-orbital pain, and joint pain for 3 days. These are classic symptoms of dengue. Please get NS1 antigen test immediately and stay hydrated."
+  },
+  {
+    "chat_id": 4,
+    "section": "unverified",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "timestamp": "2023-09-02",
+    "text": "Many people in my locality in Kolkata have stomach infection and loose motions. Is water contamination the reason?"
+  },
+  {
+    "chat_id": 5,
+    "section": "verified",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "timestamp": "2023-09-02",
+    "text": "Symptoms like diarrhea, vomiting and dehydration indicate possible water-borne disease like typhoid or gastroenteritis. Drink boiled water only."
+  },
+  {
+    "chat_id": 6,
+    "section": "unverified",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "timestamp": "2023-10-10",
+    "text": "Continuous cough for 2 weeks and mild fever. I feel weak. Anyone had TB symptoms like this in Chennai?"
+  },
+  {
+    "chat_id": 7,
+    "section": "verified",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "timestamp": "2023-10-11",
+    "text": "Chronic cough for more than 2 weeks with fever and weight loss could indicate tuberculosis. Please visit nearest TB center for sputum test."
+  },
+  {
+    "chat_id": 8,
+    "section": "unverified",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "timestamp": "2023-07-18",
+    "text": "High fever and chills since yesterday in Lucknow. Mosquitoes are too much these days. Malaria cases rising?"
+  },
+  {
+    "chat_id": 9,
+    "section": "verified",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "timestamp": "2023-07-18",
+    "text": "Fever with chills and sweating pattern is typical of malaria. Please get blood smear test done."
+  },
+  {
+    "chat_id": 10,
+    "section": "unverified",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "timestamp": "2023-06-05",
+    "text": "My eyes and skin turning yellow. Feeling tired. Anyone else in Ahmedabad facing jaundice?"
+  },
+  {
+    "chat_id": 11,
+    "section": "verified",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "timestamp": "2023-06-05",
+    "text": "Yellowing of eyes and fatigue are key symptoms of jaundice. Avoid oily food and get liver function test done."
+  },
+  {
+    "chat_id": 12,
+    "section": "unverified",
+    "city": "Delhi",
+    "state": "Delhi",
+    "timestamp": "2023-04-14",
+    "text": "Many people in office down with cold, cough, body ache. Swine flu again in Delhi?"
+  },
+  {
+    "chat_id": 13,
+    "section": "verified",
+    "city": "Delhi",
+    "state": "Delhi",
+    "timestamp": "2023-04-15",
+    "text": "Symptoms of H1N1 include fever, cough, sore throat, and body ache. Avoid crowded places and wear mask."
+  },
+  {
+    "chat_id": 14,
+    "section": "unverified",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "timestamp": "2023-05-22",
+    "text": "Sudden fever with joint swelling and rashes. Chikungunya cases in Hyderabad?"
+  },
+  {
+    "chat_id": 15,
+    "section": "verified",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "timestamp": "2023-05-22",
+    "text": "Joint swelling with fever and rashes is indicative of chikungunya. Take rest and fluids."
+  },
+  {
+    "chat_id": 101,
+    "section": "unverified",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "timestamp": "2023-08-13",
+    "text": "High fever, joint pain, rashes everywhere in Pune. Many people in my society sick with dengue symptoms."
+  },
+  {
+    "chat_id": 102,
+    "section": "unverified",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "timestamp": "2023-08-13",
+    "text": "3 people in my office in Pune down with fever and headache. Dengue spreading fast?"
+  },
+  {
+    "chat_id": 103,
+    "section": "verified",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "timestamp": "2023-08-13",
+    "text": "Multiple dengue cases reported today with fever, joint pain and rash. Testing advised."
+  },
+  {
+    "chat_id": 104,
+    "section": "unverified",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "timestamp": "2023-08-13",
+    "text": "Everyone around me in Pune has fever and weakness. Dengue outbreak?"
+  },
+  {
+    "chat_id": 105,
+    "section": "unverified",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "timestamp": "2023-08-13",
+    "text": "Joint pain, fever, body ache. This looks like dengue in Pune area."
+  }
+]

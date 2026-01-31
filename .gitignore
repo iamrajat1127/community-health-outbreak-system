@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Data you can regenerate
+Health_Hackathon_AIModel/data/cleaned/
+Health_Hackathon_AIModel/data/enriched/
+Health_Hackathon_AIModel/data/features/
+
+# React
+health-hackathon-react-frontend/node_modules/
+health-hackathon-react-frontend/build/
+
+# OS
+.DS_Store
+Thumbs.db
